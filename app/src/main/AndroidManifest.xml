@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.iflytek.voicedemo"
+    android:versionCode="1"
+    android:versionName="2014.12.10.001" >
+
+    <application
+        android:icon="@drawable/icon"
+        android:name="SpeechApp"
+        android:label="由你听" >
+        <activity
+            android:name="com.iflytek.voicedemo.TtsDemo"
+            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|fontScale"
+            android:icon="@drawable/icon"
+            android:label="由你听"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.iflytek.speech.setting.TtsSettings" >
+        </activity>
+        <activity android:name="com.iflytek.speech.setting.IatSettings" >
+        </activity>
+        <activity android:name="com.iflytek.speech.setting.UnderstanderSettings" >
+        </activity>
+        <!-- 移动统计分析 -->
+        <meta-data
+            android:name="IFLYTEK_APPKEY"
+            android:value="54859360" />
+        <meta-data
+            android:name="IFLYTEK_CHANNEL"
+            android:value="Android_Demo" />
+
+
+    </application>
+
+    <uses-sdk android:minSdkVersion="8" />
+	<!--连接网络权限，用于执行云端语音能力  -->
+	<uses-permission android:name="android.permission.INTERNET"/>
+	<!--获取手机录音机使用权限，听写、识别、语义理解需要用到此权限  -->
+	<uses-permission android:name="android.permission.RECORD_AUDIO"/>
+	<!--读取网络信息状态  -->
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+	<!--获取当前wifi状态  -->
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+	<!--允许程序改变网络连接状态  -->
+	<uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+	<!--读取手机信息权限  -->
+	<uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+	<!--读取联系人权限，上传联系人需要用到此权限  -->
+	<uses-permission android:name="android.permission.READ_CONTACTS"/>
+	<!-- 使用GPS获取用户精确定位信息 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 获得sd卡读写的权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+</manifest>

@@ -1,0 +1,258 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\talk\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\talk\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 47,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 54,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\talk\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 54,
+                        "endOffset": 333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 45,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\talk\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 338,
+                        "endColumn": 45,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endColumn": 39,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\talk\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 39,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endColumn": 56,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\talk\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 75,
+                        "endColumn": 56,
+                        "endOffset": 127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 301,
+                    "endColumn": 55,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\talk\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 55,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 357,
+                    "endColumn": 43,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\talk\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 135,
+                        "endColumn": 43,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 41,
+                    "endOffset": 438
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\talk\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 41,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 443,
+                    "endColumn": 54,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\talk\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 54,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 45,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\talk\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 51,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 61,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\talk\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 67,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endLine": 14,
+                    "endColumn": 10,
+                    "endOffset": 686
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\talk\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 379,
+                        "endLine": 14,
+                        "endColumn": 10,
+                        "endOffset": 466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 691,
+                    "endLine": 24,
+                    "endColumn": 9,
+                    "endOffset": 1215
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\talk\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 6,
+                        "startOffset": 59,
+                        "endLine": 11,
+                        "endColumn": 9,
+                        "endOffset": 592
+                    }
+                }
+            }
+        ]
+    }
+]

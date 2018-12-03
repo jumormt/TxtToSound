@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\talk\app\libs\Msc.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6cd400a3ba3e7438e3026edb4f231387d23297f3">
+        <dex dex="C:\Users\Administrator\Desktop\talk\app\build\intermediates\pre-dexed\debug\Msc_3248210e9923dc90762d2266a19558b75ae54a5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\talk\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="dda19e8f2ee69b4f045d1c191124a3857571f2dd">
+        <dex dex="C:\Users\Administrator\Desktop\talk\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_02d618184baa3b5c0cc3ed784b6968037520cb12.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\talk\app\libs\Sunflower.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="07d87768a808d2e0f5cd93623c13724359b202f5">
+        <dex dex="C:\Users\Administrator\Desktop\talk\app\build\intermediates\pre-dexed\debug\Sunflower_afc26a4faa4bbff3515cefeb27f2d7c8f05b3a2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\talk\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b65f72ffe54ca7081b82bd5fd3493a6026e320d0">
+        <dex dex="C:\Users\Administrator\Desktop\talk\app\build\intermediates\pre-dexed\debug\instant-run_b07548540e0a123c66d8a7c02f55a77b198d244e.jar" />
+    </item>
+
+</items>

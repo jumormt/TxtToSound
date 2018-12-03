@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="10dip"
+    android:background="@android:color/background_dark"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dip"
+        android:layout_marginBottom="2dip"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dip"
+            android:text="有声读物"
+            android:textSize="30sp"
+
+
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dip"
+        android:layout_marginBottom="2dip"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:gravity="center">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="导入文件"
+            android:id="@+id/select_txt"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/tts_play"
+            android:layout_width="79dp"
+            android:layout_height="wrap_content"
+            android:text="放音"
+            android:textSize="15sp"
+            android:gravity="center" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="清空"
+            android:id="@+id/clean"
+            android:layout_weight="0.12" />
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/tts_text"
+        android:layout_width="235dp"
+        android:layout_height="215dp"
+        android:gravity="top|left"
+        android:text="@string/text_tts_source"
+        android:textSize="20sp"
+
+        android:selectAllOnFocus="false"
+        android:autoText="false"
+        android:layout_weight="0.15" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="37dp"
+            android:text="暂停"
+            android:id="@+id/pause" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:text="继续"
+            android:id="@+id/resume" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="37dp"
+            android:text="停止"
+            android:id="@+id/stop" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dip"
+        android:text="made by cx,lqr,zzl(bupt)"
+        android:textSize="10sp"
+
+
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:layout_gravity="right" />
+
+
+</LinearLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="content_color">#737373</color>
+    <color name="list_backgroud_color">#2fb3cb</color>
+    <color name="title_color">#0f8ec5</color>
+    <color name="white">#ffffff</color>
+    <drawable name="layout_backgroud">#000000</drawable>
+    <drawable name="line_background">#161823</drawable>
+    <string name="app_id">54859360</string>
+    <string name="app_name">都听语音</string>
+    <string name="pref_key_iat_show">iat_show</string>
+    <string name="text_begin">请开始说话…</string>
+    <string name="text_tts_source">北邮荣誉出品，请在本框中输入文字…</string>
+    <string formatted="false" name="tts_toast_format">缓冲进度为%d%%，播放进度为%d%%
+	</string>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+  <item name="android:windowFrame">@null</item>
+  <item name="android:windowIsFloating">true</item>
+  <item name="android:windowIsTranslucent">true</item>
+  <item name="android:windowNoTitle">true</item>
+  <item name="android:background">@android:color/transparent</item>
+  <item name="android:windowBackground">@android:color/transparent</item>
+  <item name="android:backgroundDimEnabled">true</item>
+  <item name="android:backgroundDimAmount">0.6</item>
+ </style>
+</resources>

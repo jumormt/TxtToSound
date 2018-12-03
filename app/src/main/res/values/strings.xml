@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">都听语音</string>
+    <!-- 请替换成在语音云官网申请的appid -->
+    <string name="app_id">54859360</string>
+    <string name="text_tts_source">北邮荣誉出品，请在本框中输入文字&#8230;</string>
+  
+    <!-- 听写 -->
+    <string name="text_begin">请开始说话&#8230;</string>
+    <string name="pref_key_iat_show">iat_show</string>
+    <string
+		name="tts_toast_format"
+		formatted="false">缓冲进度为%d%%，播放进度为%d%%
+	</string>
+   
+</resources>
